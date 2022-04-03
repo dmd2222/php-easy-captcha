@@ -1,7 +1,7 @@
 <?php
-
+require_once("php-easy-captcha_class.php");
  
-switch (make_captcha_html("0002","Sei so nett und schreib mal ab, was hier in dem Bild steht...","https://idenlink.de/api_online/captcha_api/picture.png",false,rand(10000,99999),"Ich habe fertig...",false,false,"Du hattest nur eine Aufgabe... eine einzige. Enen weiteren versuch hast du nicht...")) {
+switch (easy_captcha::make_captcha_html("0001","Write this text...","https://idenlink.de/api_online/captcha_api/picture.png",false,rand(10000,99999),"done...",false,true,"error or so...")) {
     case 2:
         //captcha correct
 		echo"Captcha correct.";
