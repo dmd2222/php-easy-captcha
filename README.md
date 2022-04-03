@@ -1,8 +1,12 @@
 # php-easy-captcha
 Make captcha asking on your site easy.
 
-
-
+# Pictures
+ <img src="img_girl.jpg"> 
+ <img src="img_girl.jpg">
+ <img src="img_girl.jpg"> 
+ <img src="img_girl.jpg"> 
+ 
 # Features
 - Creating captchas easily.
 - Own pictures.
