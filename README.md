@@ -16,7 +16,7 @@ Make captcha asking on your site easy.
 - <code> git clone https://github.com/dmd2222/php-easy-captcha.git <code>
 
 
-  # Using
+# Using
 <code> require_once("php-easy-captcha_class.php"); <code>
 
 
