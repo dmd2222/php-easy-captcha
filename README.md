@@ -17,8 +17,7 @@ Make captcha asking on your site easy.
 
 
   # Using
-
-require_once("###.php");
+<code> require_once("php-easy-captcha_class.php"); <code>
 
 
   
