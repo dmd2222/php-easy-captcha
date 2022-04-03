@@ -2,10 +2,10 @@
 Make captcha asking on your site easy.
 
 # Pictures
- <img src="images/1.jpg"> 
- <img src="images/2.jpg">
- <img src="images/3.jpg"> 
- <img src="images/code.jpg"> 
+ <img src="images/1.JPG"> 
+ <img src="images/2.JPG">
+ <img src="images/3.JPG"> 
+ <img src="images/code.JPG"> 
  
 # Features
 - Creating captchas easily.
@@ -23,7 +23,9 @@ Make captcha asking on your site easy.
 # Using
  require_once("php-easy-captcha_class.php"); 
 
-
+# Example code:
+ <a href="https://github.com/dmd2222/php-easy-captcha/blob/main/example.php">Example</a>
+ 
   
  # Have questions or need help to implement?
   <a href="https://telegram.im/@dmd23" target="_blank"><img src="https://telegram.im/widget-logo/?v=2&bg=29a0da&color=ffffff&round=on&login=%40dmd23&t=&b=&width=100&height=100&fontsize=35&r=50" alt="@dmd23"></a>
