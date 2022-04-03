@@ -2,10 +2,10 @@
 Make captcha asking on your site easy.
 
 # Pictures
- <img src="img_girl.jpg"> 
- <img src="img_girl.jpg">
- <img src="img_girl.jpg"> 
- <img src="img_girl.jpg"> 
+ <img src="images/1.jpg"> 
+ <img src="images/2.jpg">
+ <img src="images/3.jpg"> 
+ <img src="images/code.jpg"> 
  
 # Features
 - Creating captchas easily.
