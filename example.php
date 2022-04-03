@@ -17,5 +17,5 @@ switch (easy_captcha::make_captcha_html("0001","Write this text...","https://ide
 }
 
 
-
 ?>
+<font size="1">Picture source:<a href='https://unze4u.de/UShort/s.php?i=hc' target="_blank">Menschen Foto erstellt von halayalex - de.freepik.com</a></font>
